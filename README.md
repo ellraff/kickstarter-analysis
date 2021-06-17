@@ -6,7 +6,7 @@ utilize the data to learn different data analysis methods in order to understand
 large amounts of data quickly.  The end goal was to determine whether a musical  
 in Great Britain with a funding goal of 4,000 pounds would be successful based on  
 the data. 
-![GBMusicalBoxPlot.png](/Users/ellenrafferty/Desktop/AnalysisProjects/CrowdfundingAnalysis/GBMusicalBoxPlot.png)
+![GBMusicalBoxPlot.png](GBMusicalBoxPlot.png)
 
 As you can see from the box plot above which has been specified for musical  
 kickstarter funds from Great Britain, the average goal is around $4,000 but the  
